@@ -1,0 +1,4 @@
+This is a microservice communication demonstration, where the upstream
+and downstream, both, are on the reactive stack.
+Specifically, look at the client, which uses the WebClient and returns
+Mono
